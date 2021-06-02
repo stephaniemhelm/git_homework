@@ -13,3 +13,7 @@ Two strategies I am committed to trying:
 Shoutout to someone who has helped me:
 1. My brother-in-law Seth.  He is a software developer.  He has supported me every step of the way!
 2. My sister Jen.  She is attending a different coding school but we muddle through a lot of things together!
+
+Extra thoughts from mod0 session 3:
+1. git and GitHub take some practice
+2. Make time to practice both!
